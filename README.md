@@ -1,1 +1,1 @@
-# PHP-COM-MYSQL
+# Projetos em PHP integrados ao MYSQL
